@@ -1,4 +1,5 @@
-// 1) Select each element in the DOM, and console log the element selection
+// 1) Select each element in the DOM with "document.querySelector"
+//      and "document.querySelectorAll", and then console log the element selection
 
 // body
 console.log();
