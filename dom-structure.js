@@ -16,10 +16,10 @@ console.log();
 // All of the "a" elements
 console.log();
 
-// link to just the YouTube "a" element (hint: use its ID)
+// Just the YouTube "a" element (hint: use its ID)
 console.log();
 
-// link to just the Twitch "a" element (hint: use its ID)
+// Just the Twitch "a" element (hint: use its ID)
 console.log();
 
 // All of the elements with the class name "red"
